@@ -21,7 +21,7 @@ const Navbar = () => {
   }
 
   return (
-    <nav className="sticky top-4 z-50 mx-auto my-4 max-w-4xl rounded-full bg-white/80 px-6 py-3 backdrop-blur-sm">
+    <nav className="sticky top-4 z-50 mx-auto my-0 max-w-4xl rounded-full bg-white/80 px-6 py-3 backdrop-blur-sm">
       <div className="flex items-center justify-between">
         <Link href="/" className="text-xl font-bold text-purple-800">
           My Portfolio
