@@ -46,7 +46,7 @@ const projects: Project[] = [
     id: 6,
     title: "Movie Recommendation System",
     description: "A content-based recommendation system using cosine similarity to suggest movies to users.",
-    link: "https://github.com/miminchandrank/Movie_recommendation-system",
+    link: "https://github.com/miminchandrank/Movie-recommender",
     tags: ["Recommendation System", "NLP", "Cosine Similarity"],
   },
   {
